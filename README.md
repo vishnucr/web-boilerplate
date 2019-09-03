@@ -104,3 +104,5 @@ If you want to learn more, follow these links: [Bulma homepage](http://bulma.io)
 ## Copyright and license
 
 Code copyright 2017 Jeremy Thomas. Code released under [the MIT license](https://github.com/jgthms/bulma-start/blob/master/LICENSE).
+# web-boilerplate
+ A boilerplate for modern  web development with babel, scss, and bulma css. Based on Bulma start
